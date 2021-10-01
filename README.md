@@ -3,7 +3,7 @@ A script for Civilization 5 to add colored unlocked citizens (CUC) to EUI and EU
 The following things are assumed when running the script without changes:
 * Having [7-zip](https://www.7-zip.org/) installed in the standard programs directory.
 * Every pack being saved as a .7z or .rar archive.
-* Te following folder structure:
+* The following folder structure:
 	* _steamapps\common\Sid Meier's Civilization V\Assets\DLC\\_ \
 	EUI-Modpacks and EUI with CUC
 		* _zz_Vanilla_Versions\\_ \
@@ -14,5 +14,6 @@ The following things are assumed when running the script without changes:
 			Script and project files
 
 ### Credits
-*[Enhanced User Interface](https://forums.civfanatics.com/resources/civ5-enhanced-user-interface.24303/)* by bc1 \
-[*Improved Enhanced User Interface* (*Colored Unlocked Citizens*)](https://www.reddit.com/r/civ/comments/3i46rk/update_improved_enhanced_user_interface/) by Dushku 
+* *[Enhanced User Interface](https://forums.civfanatics.com/resources/civ5-enhanced-user-interface.24303/)* by bc1
+* [*Improved Enhanced User Interface* (*Colored Unlocked Citizens*)](https://www.reddit.com/r/civ/comments/3i46rk/update_improved_enhanced_user_interface/) by Dushku \
+  (Changed color from culture expansion magenta to a dark green)
